@@ -23,8 +23,8 @@ private:
 
 int main()
 {
-    int k=20;
-    int i=15;
+    int k=30;
+    int i=40;
     int &j=i;
     int out=Max(k,i);
     std::cout<<&k<<std::endl;
